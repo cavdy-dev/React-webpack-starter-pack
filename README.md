@@ -1,1 +1,1 @@
-# Banka-React
+# React-webpack-starter-pack
